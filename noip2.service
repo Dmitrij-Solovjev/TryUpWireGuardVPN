@@ -1,0 +1,16 @@
+[Unit]
+Description=No-IP Dynamic DNS Update Client
+After=network.target
+
+[Service]
+ExecStart=/usr/local/bin/noip2 -c /usr/local/etc/no-ip2.conf
+#Restart=always
+#Restart=on-failure
+#RestartSec=60s
+Restart=always
+RestartSec=120s
+StartLimitIntervalSec=0
+User=nobody
+
+[Install]
+WantedBy=multi-user.target
