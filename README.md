@@ -16,7 +16,7 @@ peer: yBeAehC5smGleXWdZ/JTFZfyjFqUoWZ+6HVcoi20DkM=
   transfer: 0 B received, 25.73 KiB sent
   persistent keepalive: every 25 seconds
 ```
-Raspberry pi Ubuntu Server 24.04 LTS
+Raspberry pi arm64 Ubuntu Server 24.04 LTS
 ```
   public key: yBeAehC5smGleXWdZ/JTFZfyjFqUoWZ+6HVcoi20DkM=
   private key: (hidden)
