@@ -29,6 +29,6 @@ peer: PyBRR52RC3kQFZ9SeXLQZub2yy8BjYvbbCQv34T8ml8=
   persistent keepalive: every 25 seconds
 ```
 
-ping distsmarthomevpn1.ddns.net и distsmarthomevpn2.ddns.net не работает, как не работает и 
-ping 10.0.0.2 с Raspberry и ping 10.0.0.1 с PC
-Все остальное (google.com и пр. а так же себя (например ping 10.0.0.1 с Raspberry) успешно пингует.
+`ping` `distsmarthomevpn1.ddns.net` и `distsmarthomevpn2.ddns.net` не работает, как не работает и 
+`ping 10.0.0.2` с Raspberry и `ping 10.0.0.1` с PC
+Все остальное (google.com и пр. а так же себя (например `ping 10.0.0.1` с Raspberry) успешно пингует.
