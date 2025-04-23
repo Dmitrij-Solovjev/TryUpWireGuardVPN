@@ -4,7 +4,7 @@
 `noip2.service` и `wg-quick@wg0.service` - сервисы `systemd` для автоматической отправки своего IP в noip.com для корректировки namespace и для запуска wg0 при запуске системы. Они работают штатно.
 На обоих машинах вывод команды `sudo wg` следующий:
 
-Gentoo PC
+Gentoo PC x86_64
 ```
   public key: PyBRR52RC3kQFZ9SeXLQZub2yy8BjYvbbCQv34T8ml8=
   private key: (hidden)
